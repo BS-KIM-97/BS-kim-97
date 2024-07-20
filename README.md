@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![1]https://github-readme-stats.vercel.app/api?username={BS-KIM-97}&show_icons=true&theme=dracula
+###https://github-readme-stats.vercel.app/api?username={BS-KIM-97}&show_icons=true&theme=dracula
 
 ![2]https://github-readme-stats.vercel.app/api/top-langs/?username={BS-Kim-97}&show_icons=true&theme=dracula
 
