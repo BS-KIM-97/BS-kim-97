@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![test]https://github-readme-stats.vercel.app/api?username=BS-KIM-97
+https://github-readme-stats.vercel.app/api?username=BS-KIM-97
 
-![test]https://github-readme-stats.vercel.app/api/top-langs/?username=BS-Kim-97
+https://github-readme-stats.vercel.app/api/top-langs/?username=BS-Kim-97
 
 <!--
 **BS-KIM-97/BS-kim-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
